@@ -88,4 +88,3 @@ I've limited myself to only use these packages to really maximise my understandi
 - [sqlite3](https://github.com/mattn/go-sqlite3)
 - [bcrypt](https://pkg.go.dev/golang.org/x/crypto/bcrypt)
 - [UUID](https://github.com/satori/go.uuid)
-- 
