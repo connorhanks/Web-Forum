@@ -9,7 +9,7 @@ This project consists of creating a web forum that allows:
 - Liking and disliking posts and comments.
 - Filtering posts by your liked posts and categories.
 
-### What I've Learned From This Project:
+#### What I've Learned From This Project:
 
 - The fundamentals of web:
   - HTML
