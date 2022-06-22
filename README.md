@@ -11,7 +11,7 @@ This project consists of creating a web forum that allows:
 
 ### What I've Learned From This Project:
 
-- The basics of web:
+- The fundamentals of web:
   - HTML
   - HTTP
   - Sessions and cookies
