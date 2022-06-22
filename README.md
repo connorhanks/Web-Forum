@@ -78,7 +78,7 @@ For this project, I've set myself some outlines to follow:
 - I must use **SQLite**.
 - I must handle website errors and HTTP statuses.
 - I must handle all sort of technical errors to ensure the user has a pleasant experience on the forum.
-- The code must respect [**good coding practices and favour efficiency**](../good-practices/README.md).
+- The code must respect [**good coding practices and favour efficiency**](/good-practices/README.md).
 
 ### Allowed packages
 
