@@ -1,5 +1,11 @@
 ## Forum
 
+### Home Page
+![](https://github.com/CodeWithConnor/Forum/screenshot1.png)
+
+### Create A Thread
+![](https://github.com/CodeWithConnor/Forum/screenshot2.png)
+
 ### Objectives
 
 This project consists of creating a web forum that allows:
