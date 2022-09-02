@@ -69,7 +69,7 @@ I have implemented a filter mechanism, which allows the user to filter posts by:
 
 #### Docker
 
-I've used Docker with this project, as I'm not too familiar with it, so I've used this project as a stepping-stone to help me understand the fundamentals.
+I've used Docker with this project.
 
 ### Project Outlines
 
