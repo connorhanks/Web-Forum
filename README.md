@@ -1,10 +1,10 @@
 ## Forum
 
 ### Home Page
-![](https://github.com/CodeWithConnor/Forum/screenshot1.png)
+![](https://github.com/CodeWithConnor/Forum/blob/main/screenshot1.png)
 
-### Create A Thread
-![](https://github.com/CodeWithConnor/Forum/screenshot2.png)
+### Creating A Thread
+![](https://github.com/CodeWithConnor/Forum/blob/main/screenshot2.png)
 
 ### Objectives
 
